@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Модуль: one.js"),console.log("Модуль: two.js")})();
